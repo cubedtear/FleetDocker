@@ -1,1 +1,1 @@
-docker build . -t aritzh:test --rm
+docker build . -t aritzh/debian-llvm --rm
